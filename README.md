@@ -9,4 +9,5 @@
 | :------------: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :----: |
 | LV1_짝수와홀수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_짝수와홀수.java) | 조건문 |
 |   LV1_체육복   | [문제](https://programmers.co.kr/learn/courses/30/lessons/42862) | 링크 |  [소스코드](./Programmers/src/lv1/Programmers_체육복.java)   | Greedy |
+|  LV1_K번째수   | [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) | 링크 |  [소스코드](./Programmers/src/lv1/Programmers_K번째수.java)  |  정렬  |
 
