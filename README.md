@@ -15,3 +15,11 @@
 |    LV1_크레인인형뽑기게임    | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_크레인인형뽑기게임.java) |   조건문, 스택(Stack)   |
 |           LV1_내적           | [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) | 링크 |   [소스코드](./Programmers/src/lv1/Programmers_내적.java)    |         조건문          |
 
+
+
+## 백준
+
+| 문제번호  |                     링크                      | 해설 |                     풀이                     |    비고    |
+| :-------: | :-------------------------------------------: | :--: | :------------------------------------------: | :--------: |
+| BOJ_10974 | [문제](https://www.acmicpc.net/problem/10974) | 링크 | [소스코드](./BOJ/src/study01/BOJ_10974.java) | 브루트포스 |
+
