@@ -28,4 +28,6 @@
 | BOJ_2750  | 브론즈1 | [문제](https://www.acmicpc.net/problem/2750)  | 링크 | [소스코드](./BOJ/src/study01/BOJ_2750.java)  |    정렬     |
 | BOJ_11399 |  실버3  | [문제](https://www.acmicpc.net/problem/11399) | 링크 | [소스코드](./BOJ/src/study01/BOJ_11399.java) |    정렬     |
 | BOJ_15591 |  골드4  | [문제](https://www.acmicpc.net/problem/15591) | 링크 | [소스코드](./BOJ/src/study01/BOJ_15591.java) | 그래프, BFS |
+| BOJ_2751  |  실버5  | [문제](https://www.acmicpc.net/problem/2751)  | 링크 | [소스코드](./BOJ/src/study01/BOJ_2751.java)  |    정렬     |
+| BOJ_1427  |  실버5  | [문제](https://www.acmicpc.net/problem/1427)  | 링크 | [소스코드](./BOJ/src/study01/BOJ_1427.java)  |    정렬     |
 
