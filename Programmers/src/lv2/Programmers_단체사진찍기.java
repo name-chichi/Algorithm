@@ -45,8 +45,8 @@ public class Programmers_단체사진찍기 {
 		char[] pictureRule = data.toCharArray();	// N~F=0
 		switch (pictureRule[3]) {
 		case '=':
-				chk = (Math.abs(hm.get(pictureRule[0]) - hm.get(pictureRule[2]))-1) == pictureRule[4]-'0'? true : false;
-				break;
+			chk = (Math.abs(hm.get(pictureRule[0]) - hm.get(pictureRule[2]))-1) == pictureRule[4]-'0'? true : false;
+			break;
 		case '>':
 			chk = (Math.abs(hm.get(pictureRule[0]) - hm.get(pictureRule[2]))-1) > pictureRule[4]-'0' ? true : false;
 			break;
