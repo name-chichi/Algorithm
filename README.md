@@ -18,7 +18,7 @@
 |     LV1_완주하지못한선수     | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_완주하지못한선수.java) |          해쉬           |
 |    LV1_가운데글자가져오기    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_가운데글자가져오기.java) |         문자열          |
 |       LV2_단체사진찍기       | [문제](https://programmers.co.kr/learn/courses/30/lessons/1835) | 링크 | [소스코드](./Programmers/src/lv2/Programmers_단체사진찍기.java) |     완전탐색, 순열      |
-|  LV1_수박수박수박수박수박수  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) | 링크 | [소스코드](./Programmers/src/lv2/Programmers_수박수박수박수박수박수.java) |         조건문          |
+|  LV1_수박수박수박수박수박수  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_수박수박수박수박수박수.java) |         조건문          |
 
 
 
