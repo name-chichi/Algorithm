@@ -1,6 +1,5 @@
 package study01;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
 
