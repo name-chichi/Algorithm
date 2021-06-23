@@ -34,4 +34,6 @@
 | BOJ_1427  |  실버5  | [문제](https://www.acmicpc.net/problem/1427)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1427.java)      |    정렬     |
 | BOJ_17780 |  골드2  | [문제](https://www.acmicpc.net/problem/17780) | 링크 | [소스코드](./BOJ/src/study01/BOJ_17780_refactor.java) | 구현, 시뮬  |
 | BOJ_9872  |  실버4  | [문제](https://www.acmicpc.net/problem/9872)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_9872.java)      | 정렬, 해쉬  |
+| BOJ_11651 |  실버5  | [문제](https://www.acmicpc.net/problem/11651) | 링크 | [소스코드](./BOJ/src/study01/BOJ_11651_refactor.java) |    정렬     |
+| BOJ_1244  |  실버4  | [문제](https://www.acmicpc.net/problem/1244)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1244.java)      |  구현,시뮬  |
 
