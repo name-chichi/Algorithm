@@ -24,16 +24,17 @@
 
 ## 백준
 
-| 문제번호  | 난이도  |                     링크                      | 해설 |                         풀이                          |    비고     |
-| :-------: | :-----: | :-------------------------------------------: | :--: | :---------------------------------------------------: | :---------: |
-| BOJ_10974 |  실버3  | [문제](https://www.acmicpc.net/problem/10974) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_10974.java)      | 브루트포스  |
-| BOJ_2750  | 브론즈1 | [문제](https://www.acmicpc.net/problem/2750)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_2750.java)      |    정렬     |
-| BOJ_11399 |  실버3  | [문제](https://www.acmicpc.net/problem/11399) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_11399.java)      |    정렬     |
-| BOJ_15591 |  골드4  | [문제](https://www.acmicpc.net/problem/15591) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_15591.java)      | 그래프, BFS |
-| BOJ_2751  |  실버5  | [문제](https://www.acmicpc.net/problem/2751)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_2751.java)      |    정렬     |
-| BOJ_1427  |  실버5  | [문제](https://www.acmicpc.net/problem/1427)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1427.java)      |    정렬     |
-| BOJ_17780 |  골드2  | [문제](https://www.acmicpc.net/problem/17780) | 링크 | [소스코드](./BOJ/src/study01/BOJ_17780_refactor.java) | 구현, 시뮬  |
-| BOJ_9872  |  실버4  | [문제](https://www.acmicpc.net/problem/9872)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_9872.java)      | 정렬, 해쉬  |
-| BOJ_11651 |  실버5  | [문제](https://www.acmicpc.net/problem/11651) | 링크 | [소스코드](./BOJ/src/study01/BOJ_11651_refactor.java) |    정렬     |
-| BOJ_1244  |  실버4  | [문제](https://www.acmicpc.net/problem/1244)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1244.java)      |  구현,시뮬  |
+| 문제번호  | 난이도  |                     링크                      | 해설 |                         풀이                          |        비고        |
+| :-------: | :-----: | :-------------------------------------------: | :--: | :---------------------------------------------------: | :----------------: |
+| BOJ_10974 |  실버3  | [문제](https://www.acmicpc.net/problem/10974) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_10974.java)      |     브루트포스     |
+| BOJ_2750  | 브론즈1 | [문제](https://www.acmicpc.net/problem/2750)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_2750.java)      |        정렬        |
+| BOJ_11399 |  실버3  | [문제](https://www.acmicpc.net/problem/11399) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_11399.java)      |        정렬        |
+| BOJ_15591 |  골드4  | [문제](https://www.acmicpc.net/problem/15591) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_15591.java)      |    그래프, BFS     |
+| BOJ_2751  |  실버5  | [문제](https://www.acmicpc.net/problem/2751)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_2751.java)      |        정렬        |
+| BOJ_1427  |  실버5  | [문제](https://www.acmicpc.net/problem/1427)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1427.java)      |        정렬        |
+| BOJ_17780 |  골드2  | [문제](https://www.acmicpc.net/problem/17780) | 링크 | [소스코드](./BOJ/src/study01/BOJ_17780_refactor.java) |     구현, 시뮬     |
+| BOJ_9872  |  실버4  | [문제](https://www.acmicpc.net/problem/9872)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_9872.java)      |     정렬, 해쉬     |
+| BOJ_11651 |  실버5  | [문제](https://www.acmicpc.net/problem/11651) | 링크 | [소스코드](./BOJ/src/study01/BOJ_11651_refactor.java) |        정렬        |
+| BOJ_1244  |  실버4  | [문제](https://www.acmicpc.net/problem/1244)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1244.java)      |     구현,시뮬      |
+| BOJ_18500 |  골드3  | [문제](https://www.acmicpc.net/problem/18500) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_18500.java)      | 구현, 그래프, 시뮬 |
 
