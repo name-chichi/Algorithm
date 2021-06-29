@@ -39,4 +39,5 @@
 | BOJ_18500 |  골드3  | [문제](https://www.acmicpc.net/problem/18500) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_18500.java)      | 구현, 그래프, 시뮬 |
 | BOJ_16918 |  실버1  | [문제](https://www.acmicpc.net/problem/16918) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_16918.java)      |        구현        |
 | BOJ_10989 |  실버5  | [문제](https://www.acmicpc.net/problem/10989) | 링크 |     [소스코드](./BOJ/src/study01/BOJ_10989.java)      |        정렬        |
+| BOJ_1717  |  골드4  | [문제](https://www.acmicpc.net/problem/1717)  | 링크 |      [소스코드](./BOJ/src/study01/BOJ_1717.java)      |  집합, Union-Find  |
 
